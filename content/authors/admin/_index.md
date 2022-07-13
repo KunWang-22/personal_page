@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto.zhenyi.wang@connect.um.edu.mo
+    link: mailto:zhenyi.wang@connect.um.edu.mo
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
