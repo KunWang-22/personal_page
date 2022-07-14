@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Electrical and Computer Engineering
+    - course: Ph.D. in Electrical and Computer Engineering
       institution: University of Macau
-      year: 2021-present
+      year: 2021 - present
     - course: B.Eng. in Cybersecurity
       institution: Sichuan University
-      year: 2017-2021
+      year: 2017 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
