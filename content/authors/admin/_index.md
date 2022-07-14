@@ -66,10 +66,6 @@ email: 'test@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Zhenyi Wang is a Ph.D. student in Electrical and Computer Engineering, University of Macau, supervised by {{< staticref "https://www.fst.um.edu.mo/personal/hczhang/" "newtab" >}}Prof.Zhang{{< /staticref >}}.
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhenyi Wang is a Ph.D. student in Electrical and Computer Engineering, University of Macau, supervised by {{< staticref "https://www.fst.um.edu.mo/personal/hczhang/" "newtab" >}}Prof.Zhang{{< /staticref >}}. He received the B.Eng. degree in cybersecurity from the Sichuan University, Chengdu, Sichuan, China, in 2017, and supervised by {{< staticref "https://li-beibei.github.io/" "newtab" >}}Prof.Li{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
