@@ -21,13 +21,14 @@ organizations:
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Smart Grid
-  - Demand Response
+  - Data Analysis
+  - Smart Grid Security
+  - Demand Response 
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Electrical and Computer Engineering
+    - course: Ph.D. in Smart Energy
       institution: University of Macau
       year: 2021 - present
     - course: B.Eng. in Cybersecurity
@@ -68,6 +69,6 @@ email: 'test@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Zhenyi Wang is currently a Ph.D. student with Department of Electrical and Computer Engineering, University of Macau, Macau, China, supervised by {{< staticref "https://www.fst.um.edu.mo/personal/hczhang/" "newtab" >}}Prof.Zhang{{< /staticref >}}. He received the B.Eng. degree in cybersecurity from the Sichuan University, Chengdu, Sichuan, China, in 2017, and supervised by {{< staticref "https://li-beibei.github.io/" "newtab" >}}Prof.Li{{< /staticref >}}.
+Zhenyi Wang is currently a Ph.D. student at Department of Electrical and Computer Engineering, University of Macau, supervised by {{< staticref "https://www.fst.um.edu.mo/personal/hczhang/" "newtab" >}}Prof. Hongcai Zhang{{< /staticref >}}. He received the B.Eng. degree in cybersecurity from the Sichuan University in 2017, and supervised by {{< staticref "https://li-beibei.github.io/" "newtab" >}}Prof. Beibei Li{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Zhenyi Wang.pdf" "newtab" >}}resumé{{< /staticref >}}.
