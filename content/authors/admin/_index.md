@@ -12,9 +12,11 @@ role: Ph.D. Student
 organizations:
   - name: University of Macau
     url: https://www.um.edu.mo/
+  - name: State Key Laboratory of Internet of Things for Smart City
+    url: https://skliotsc.um.edu.mo/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+<!-- bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
 
 # Interests to show in About widget
 interests:
